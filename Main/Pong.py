@@ -29,7 +29,7 @@ Cowboy = pygame.image.load("Cowboy Hat.png")
 Cow1Y = 250
 Cow1X = 20
 
-Cowboy2 = pygame.image.load("Cowboy Hat2.png")
+Cowboy2 = pygame.image.load("Golem.gif")
 Cow2Y = 250
 Cow2X = 640
 
